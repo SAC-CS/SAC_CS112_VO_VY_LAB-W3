@@ -25,9 +25,12 @@ public class Scanner {
 
 	}
 
+// Way do you need this, Vy?////
 	private int nextInt() {
 		// TODO Auto-generated method stub
 		return 0;
 	}
+// Way do you need this, Vy? ////
 
 }
+
